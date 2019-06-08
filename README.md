@@ -1,2 +1,1 @@
-# Link Page  
-Simple link page.
+#Link Page
